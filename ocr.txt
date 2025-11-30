@@ -1,2 +1,2 @@
 Hehe
-dogecoin=false
+dogecoin=true
