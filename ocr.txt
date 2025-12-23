@@ -2,3 +2,4 @@ Hehe
 dogecoin=true
 desktop-u34517d=true
 demomas=true
+desktop-mkbthsq=false
