@@ -2,3 +2,4 @@ done
 dogecoin=true
 serverbck=true
 dogecoin=false
+dogecoin=false
