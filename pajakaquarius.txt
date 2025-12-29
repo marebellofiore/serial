@@ -3,3 +3,4 @@ dogecoin=true
 serverbck=true
 dogecoin=true
 dogecoin=true
+dogecoin=false
