@@ -1,2 +1,2 @@
 Halo
-GAJ|Hotel Gren Alia Tugu Tani=false
+GAJ|Hotel Gren Alia Tugu Tani=true
