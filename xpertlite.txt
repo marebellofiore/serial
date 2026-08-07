@@ -1,3 +1,2 @@
-Halo
 GAJ|Hotel Gren Alia Tugu Tani=true
 ATH|ATTARA HERITAGE SENGGIGI=false
