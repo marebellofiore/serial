@@ -1,2 +1,3 @@
 GAJ|Hotel Gren Alia Tugu Tani=true
 ATH|ATTARA HERITAGE SENGGIGI=true
+SDB|SUMMER DAY BANJARBARU=false
