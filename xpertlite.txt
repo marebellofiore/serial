@@ -18,3 +18,4 @@ SKS|SURYA KENCANA SEASIDE HOTEL=true
 HOF|HOUSE OF SUSAN=false
 SSR|Susan Spa & Resort=false
 10|Le Premier Hotel Kota Deltam=false
+SSR|KILIKA HOTEL=false
