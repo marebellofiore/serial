@@ -19,4 +19,4 @@ HOF|HOUSE OF SUSAN=false
 SSR|Susan Spa & Resort=false
 10|Le Premier Hotel Kota Deltam=false
 SSR|KILIKA HOTEL=true
-HWP|HOTEL WARU=false
+HWP|HOTEL WARU=true
