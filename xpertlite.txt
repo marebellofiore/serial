@@ -20,3 +20,4 @@ SSR|Susan Spa & Resort=false
 10|Le Premier Hotel Kota Deltam=false
 SSR|KILIKA HOTEL=true
 HWP|HOTEL WARU=true
+SIP|SUN IN PANGANDARAN HOTEL=false
