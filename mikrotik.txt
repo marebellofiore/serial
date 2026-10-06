@@ -2,3 +2,5 @@ dewa
 e19656adf8fce68587dd5a7ecfcdc8aa
 laptop
 8294777f5f71eaf255bea246f47a2a54
+palmi
+bf4cad5eb8e87cabb68bca553e6343b3
