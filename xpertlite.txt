@@ -30,3 +30,4 @@ PLB|PALMEERA training=false
 PLB|PALMIRA TRIAL=false
 VAG|Villa Andhita Garut=true
 PLB|PALMEERA TREINN=false
+PLB|PALMEERA trn=false
