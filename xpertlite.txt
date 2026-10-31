@@ -31,3 +31,4 @@ PLB|PALMIRA TRIAL=false
 VAG|Villa Andhita Garut=true
 PLB|PALMEERA TREINN=false
 PLB|PALMEERA trn=false
+PLB|PALMEERA TRAIN=false
