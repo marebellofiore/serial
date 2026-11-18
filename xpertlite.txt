@@ -32,3 +32,4 @@ VAG|Villa Andhita Garut=true
 PLB|PALMEERA TREINN=false
 PLB|PALMEERA trn=false
 PLB|PALMEERA TRAIN=false
+CC|CITRA CIKOPO HOTEL=false
